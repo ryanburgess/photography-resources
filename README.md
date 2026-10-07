@@ -6,6 +6,8 @@ A personal collection of photography resources to learn from and return to. I'm 
 
 Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) list.
 
+## Resources
+
 The collection is taking shape. Resources will appear here as I add them.
 
 
@@ -30,6 +32,8 @@ Category, title, and URL are required. The command updates `resources.json` and 
 ## Contributing
 
 Explain what made the resource useful to you. Mention paid access and disclose any connection you have to it. Suggested resources are welcome; this remains a personally curated collection. Notes from contributors should not claim to be Ryan's firsthand experience.
+
+Add resources to `resources.json`, rather than editing the generated list in this README. `npm run add` updates both automatically; after manual JSON edits, run `npm run generate`. Only categories with entries appear under Resources.
 
 Run `npm run check` before submitting. To edit introductory text, change `README.template.md` and run `npm run generate`; the README is generated.
 
