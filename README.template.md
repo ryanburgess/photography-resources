@@ -1,5 +1,7 @@
 # Photography Resources
 
+created by [Ryan Burgess](https://instagram.com/ryan.burgess)
+
 A personal collection of photography resources to learn from and return to. I'm building this for myself and sharing it in case it's useful to others.
 
 Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) list.
