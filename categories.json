@@ -1,0 +1,42 @@
+[
+  {
+    "id": "courses",
+    "label": "Courses"
+  },
+  {
+    "id": "mentoring-and-workshops",
+    "label": "Mentoring and workshops"
+  },
+  {
+    "id": "books",
+    "label": "Books"
+  },
+  {
+    "id": "videos",
+    "label": "Videos"
+  },
+  {
+    "id": "podcasts",
+    "label": "Podcasts"
+  },
+  {
+    "id": "articles",
+    "label": "Articles"
+  },
+  {
+    "id": "newsletters",
+    "label": "Newsletters"
+  },
+  {
+    "id": "communities",
+    "label": "Communities"
+  },
+  {
+    "id": "tools",
+    "label": "Tools"
+  },
+  {
+    "id": "photographers-and-inspiration",
+    "label": "Photographers and inspiration"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "photography-resources",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "add": "node scripts/add.js",
+    "generate": "node scripts/generate.js",
+    "validate": "node scripts/validate.js",
+    "test": "node --test",
+    "check": "npm run validate && npm test && node scripts/generate.js --check"
+  }
+}
