@@ -89,5 +89,19 @@
     "title": "PhotoPills",
     "url": "https://www.photopills.com/",
     "notes": "A photography planning app for predicting the position of the Sun, Moon, and Milky Way, scouting locations, and calculating technical details before a shoot."
+  },
+  {
+    "id": "717ad25a-e4ef-45a1-b34c-539a819c69c6",
+    "category": "podcasts",
+    "title": "The Creative Thread",
+    "url": "https://open.spotify.com/show/033js3qoXvzv6DeXTiti9h",
+    "notes": "Hosted by photographer Meg Loeks, The Creative Thread is a podcast about art, process, and the stories behind the work."
+  },
+  {
+    "id": "b8d3d5d4-a3df-43db-929a-9a86358620c6",
+    "category": "books",
+    "title": "The Creative Act: A Way of Being — Rick Rubin",
+    "url": "https://sites.prh.com/thecreativeact",
+    "notes": "An excellent book with so many insights into creativity. While it is not a photography book, its ideas apply to photography and building a creative life."
   }
 ]

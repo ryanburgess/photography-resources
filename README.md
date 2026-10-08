@@ -16,6 +16,7 @@ A personal collection of photography resources to learn from and return to. I'm 
 - [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) — Useful for developing a more observant, patient, and playful approach to street photography.
 - [Understanding Color in Photography](<https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20>) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
 - [Find Your Frame](<https://www.amazon.com/dp/071128363X/?tag=frontendhappy-20>) — Useful for developing a personal way of seeing, composing, and anticipating moments on the street.
+- [The Creative Act: A Way of Being — Rick Rubin](<https://sites.prh.com/thecreativeact>) — An excellent book with so many insights into creativity. While it is not a photography book, its ideas apply to photography and building a creative life.
 
 ### Photo books
 
@@ -29,6 +30,10 @@ A personal collection of photography resources to learn from and return to. I'm 
 
 - [Making Candid Portraits in Street Photography \(feat. Dawn Eagleton\)](<https://www.youtube.com/watch?v=qcXt3b6Xvr8>) — A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments.
 - [Abstract: The Art of Design \| Platon: Photography](<https://www.youtube.com/watch?v=BDpqt-haLLM>) — A full episode following Platon’s portrait practice and his focus on simplicity, connection, and storytelling.
+
+### Podcasts
+
+- [The Creative Thread](<https://open.spotify.com/show/033js3qoXvzv6DeXTiti9h>) — Hosted by photographer Meg Loeks, The Creative Thread is a podcast about art, process, and the stories behind the work.
 
 ### Tools
 
