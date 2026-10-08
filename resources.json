@@ -82,5 +82,12 @@
     "title": "Jimmy Chin Teaches Adventure Photography",
     "url": "https://www.masterclass.com/classes/jimmy-chin-teaches-adventure-photography",
     "notes": "A MasterClass course on planning, capturing, and editing adventure photography in demanding environments."
+  },
+  {
+    "id": "34c94812-968e-4c12-b82b-78dd1737c991",
+    "category": "tools",
+    "title": "PhotoPills",
+    "url": "https://www.photopills.com/",
+    "notes": "A photography planning app for predicting the position of the Sun, Moon, and Milky Way, scouting locations, and calculating technical details before a shoot."
   }
 ]
