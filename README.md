@@ -6,23 +6,21 @@ A personal collection of photography resources to learn from and return to. I'm 
 
 Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) list.
 
-Some links are affiliate links. As an Amazon Associate I earn from qualifying purchases.
-
 ## Resources
 
 ### Books
 
-- [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) (paid link) — Useful for developing a more observant, patient, and playful approach to street photography.
-- [Understanding Color in Photography](<https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20>) (paid link) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
-- [Find Your Frame](<https://www.amazon.com/dp/071128363X/?tag=frontendhappy-20>) (paid link) — Useful for developing a personal way of seeing, composing, and anticipating moments on the street.
+- [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) — Useful for developing a more observant, patient, and playful approach to street photography.
+- [Understanding Color in Photography](<https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20>) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
+- [Find Your Frame](<https://www.amazon.com/dp/071128363X/?tag=frontendhappy-20>) — Useful for developing a personal way of seeing, composing, and anticipating moments on the street.
 
 ### Photo books
 
 - [Through the Glass](<https://dawn-eagleton.myshopify.com/products/through-the-glass-book>) — Dawn Eagleton’s candid street portraits use windows, reflections, and layers to find intimate moments in everyday life.
-- [Fred Herzog: Modern Color](<https://www.amazon.com/dp/3775741814/?tag=frontendhappy-20>) (paid link) — A vivid survey of Fred Herzog’s pioneering color street photography and his distinctive view of mid-century Vancouver.
-- [Vivian Maier: The Color Work](<https://www.amazon.com/dp/0062795570/?tag=frontendhappy-20>) (paid link) — A revealing collection of Vivian Maier’s color photographs that expands the familiar view of her street photography.
-- [Saul Leiter: The Centennial Retrospective](<https://www.amazon.com/dp/050054557X/?tag=frontendhappy-20>) (paid link) — A wide-ranging retrospective of Saul Leiter’s color, black-and-white, fashion, and painted work.
-- [The Defenders: Heroes of the Fight for Global Human Rights](<https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20>) (paid link) — Platon’s powerful portraits and photo essays document people fighting for human rights around the world.
+- [Fred Herzog: Modern Color](<https://www.amazon.com/dp/3775741814/?tag=frontendhappy-20>) — A vivid survey of Fred Herzog’s pioneering color street photography and his distinctive view of mid-century Vancouver.
+- [Vivian Maier: The Color Work](<https://www.amazon.com/dp/0062795570/?tag=frontendhappy-20>) — A revealing collection of Vivian Maier’s color photographs that expands the familiar view of her street photography.
+- [Saul Leiter: The Centennial Retrospective](<https://www.amazon.com/dp/050054557X/?tag=frontendhappy-20>) — A wide-ranging retrospective of Saul Leiter’s color, black-and-white, fashion, and painted work.
+- [The Defenders: Heroes of the Fight for Global Human Rights](<https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20>) — Platon’s powerful portraits and photo essays document people fighting for human rights around the world.
 
 
 ## Add a resource

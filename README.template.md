@@ -6,8 +6,6 @@ A personal collection of photography resources to learn from and return to. I'm 
 
 Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) list.
 
-Some links are affiliate links. As an Amazon Associate I earn from qualifying purchases.
-
 ## Resources
 
 <!-- RESOURCE_LIST -->
