@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "695e6a5c-aff0-4428-ae18-1091fbdfe1df",
+    "category": "books",
+    "title": "Think Like a Street Photographer",
+    "url": "https://us.laurenceking.com/products/think-like-a-street-photographer",
+    "notes": "Useful for developing a more observant, patient, and playful approach to street photography."
+  },
+  {
+    "id": "c54f5c05-22a5-4eb3-ae19-e89ea2250d65",
+    "category": "books",
+    "title": "Understanding Color in Photography",
+    "url": "https://www.penguinrandomhouse.com/books/218268/understanding-color-in-photography-by-bryan-peterson-with-susana-heide-schellenberg/",
+    "notes": "Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs."
+  },
+  {
+    "id": "672d4578-e092-4f28-bc28-037d4314e472",
+    "category": "books",
+    "title": "Find Your Frame",
+    "url": "https://www.quarto.com/books/9780711283633/find-your-frame",
+    "notes": "Useful for developing a personal way of seeing, composing, and anticipating moments on the street."
+  }
+]

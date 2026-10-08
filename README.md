@@ -8,7 +8,11 @@ Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/en
 
 ## Resources
 
-The collection is taking shape. Resources will appear here as I add them.
+### Books
+
+- [Think Like a Street Photographer](<https://us.laurenceking.com/products/think-like-a-street-photographer>) — Useful for developing a more observant, patient, and playful approach to street photography.
+- [Understanding Color in Photography](<https://www.penguinrandomhouse.com/books/218268/understanding-color-in-photography-by-bryan-peterson-with-susana-heide-schellenberg/>) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
+- [Find Your Frame](<https://www.quarto.com/books/9780711283633/find-your-frame>) — Useful for developing a personal way of seeing, composing, and anticipating moments on the street.
 
 
 ## Add a resource

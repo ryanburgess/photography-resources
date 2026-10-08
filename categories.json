@@ -12,6 +12,10 @@
     "label": "Books"
   },
   {
+    "id": "photo-books",
+    "label": "Photo books"
+  },
+  {
     "id": "videos",
     "label": "Videos"
   },
