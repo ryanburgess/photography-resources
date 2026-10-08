@@ -54,5 +54,33 @@
     "title": "The Defenders: Heroes of the Fight for Global Human Rights",
     "url": "https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20",
     "notes": "Platon’s powerful portraits and photo essays document people fighting for human rights around the world."
+  },
+  {
+    "id": "3123efd4-7f50-41da-bfb8-5cafa87b8243",
+    "category": "videos",
+    "title": "Making Candid Portraits in Street Photography (feat. Dawn Eagleton)",
+    "url": "https://www.youtube.com/watch?v=qcXt3b6Xvr8",
+    "notes": "A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments."
+  },
+  {
+    "id": "64dc04f8-63cf-4531-b840-de6be06b4b73",
+    "category": "videos",
+    "title": "Abstract: The Art of Design | Platon: Photography",
+    "url": "https://www.youtube.com/watch?v=BDpqt-haLLM",
+    "notes": "A full episode following Platon’s portrait practice and his focus on simplicity, connection, and storytelling."
+  },
+  {
+    "id": "253c6943-cc1e-41aa-82b3-bb403759a1a5",
+    "category": "courses",
+    "title": "Annie Leibovitz Teaches Photography",
+    "url": "https://www.masterclass.com/classes/annie-leibovitz-teaches-photography",
+    "notes": "A MasterClass course on portraiture, developing concepts, working with subjects, natural light, and post-production."
+  },
+  {
+    "id": "6d5822bd-e44f-4740-b70f-e535d44ee12a",
+    "category": "courses",
+    "title": "Jimmy Chin Teaches Adventure Photography",
+    "url": "https://www.masterclass.com/classes/jimmy-chin-teaches-adventure-photography",
+    "notes": "A MasterClass course on planning, capturing, and editing adventure photography in demanding environments."
   }
 ]

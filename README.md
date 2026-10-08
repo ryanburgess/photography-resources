@@ -8,6 +8,11 @@ Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/en
 
 ## Resources
 
+### Courses
+
+- [Annie Leibovitz Teaches Photography](<https://www.masterclass.com/classes/annie-leibovitz-teaches-photography>) — A MasterClass course on portraiture, developing concepts, working with subjects, natural light, and post-production.
+- [Jimmy Chin Teaches Adventure Photography](<https://www.masterclass.com/classes/jimmy-chin-teaches-adventure-photography>) — A MasterClass course on planning, capturing, and editing adventure photography in demanding environments.
+
 ### Books
 
 - [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) — Useful for developing a more observant, patient, and playful approach to street photography.
@@ -21,6 +26,11 @@ Inspired by my [Engineering Manager Resources](https://github.com/ryanburgess/en
 - [Vivian Maier: The Color Work](<https://www.amazon.com/dp/0062795570/?tag=frontendhappy-20>) — A revealing collection of Vivian Maier’s color photographs that expands the familiar view of her street photography.
 - [Saul Leiter: The Centennial Retrospective](<https://www.amazon.com/dp/050054557X/?tag=frontendhappy-20>) — A wide-ranging retrospective of Saul Leiter’s color, black-and-white, fashion, and painted work.
 - [The Defenders: Heroes of the Fight for Global Human Rights](<https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20>) — Platon’s powerful portraits and photo essays document people fighting for human rights around the world.
+
+### Videos
+
+- [Making Candid Portraits in Street Photography \(feat. Dawn Eagleton\)](<https://www.youtube.com/watch?v=qcXt3b6Xvr8>) — A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments.
+- [Abstract: The Art of Design \| Platon: Photography](<https://www.youtube.com/watch?v=BDpqt-haLLM>) — A full episode following Platon’s portrait practice and his focus on simplicity, connection, and storytelling.
 
 
 ## Add a resource
