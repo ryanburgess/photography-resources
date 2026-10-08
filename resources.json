@@ -3,21 +3,56 @@
     "id": "695e6a5c-aff0-4428-ae18-1091fbdfe1df",
     "category": "books",
     "title": "Think Like a Street Photographer",
-    "url": "https://us.laurenceking.com/products/think-like-a-street-photographer",
+    "url": "https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20",
     "notes": "Useful for developing a more observant, patient, and playful approach to street photography."
   },
   {
     "id": "c54f5c05-22a5-4eb3-ae19-e89ea2250d65",
     "category": "books",
     "title": "Understanding Color in Photography",
-    "url": "https://www.penguinrandomhouse.com/books/218268/understanding-color-in-photography-by-bryan-peterson-with-susana-heide-schellenberg/",
+    "url": "https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20",
     "notes": "Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs."
   },
   {
     "id": "672d4578-e092-4f28-bc28-037d4314e472",
     "category": "books",
     "title": "Find Your Frame",
-    "url": "https://www.quarto.com/books/9780711283633/find-your-frame",
+    "url": "https://www.amazon.com/dp/071128363X/?tag=frontendhappy-20",
     "notes": "Useful for developing a personal way of seeing, composing, and anticipating moments on the street."
+  },
+  {
+    "id": "9550fc55-b649-45d5-948e-b8c199a2ea19",
+    "category": "photo-books",
+    "title": "Through the Glass",
+    "url": "https://dawn-eagleton.myshopify.com/products/through-the-glass-book",
+    "notes": "Dawn Eagleton’s candid street portraits use windows, reflections, and layers to find intimate moments in everyday life."
+  },
+  {
+    "id": "cf690ed8-f56a-420d-90d4-9f31cbe19689",
+    "category": "photo-books",
+    "title": "Fred Herzog: Modern Color",
+    "url": "https://www.amazon.com/dp/3775741814/?tag=frontendhappy-20",
+    "notes": "A vivid survey of Fred Herzog’s pioneering color street photography and his distinctive view of mid-century Vancouver."
+  },
+  {
+    "id": "9586046b-9801-4731-b56f-818bac2da78b",
+    "category": "photo-books",
+    "title": "Vivian Maier: The Color Work",
+    "url": "https://www.amazon.com/dp/0062795570/?tag=frontendhappy-20",
+    "notes": "A revealing collection of Vivian Maier’s color photographs that expands the familiar view of her street photography."
+  },
+  {
+    "id": "0fe4ecf3-540e-450b-8915-8319281f9bf8",
+    "category": "photo-books",
+    "title": "Saul Leiter: The Centennial Retrospective",
+    "url": "https://www.amazon.com/dp/050054557X/?tag=frontendhappy-20",
+    "notes": "A wide-ranging retrospective of Saul Leiter’s color, black-and-white, fashion, and painted work."
+  },
+  {
+    "id": "e4c3d50a-3b5b-430c-9a26-349ce6a428a7",
+    "category": "photo-books",
+    "title": "The Defenders: Heroes of the Fight for Global Human Rights",
+    "url": "https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20",
+    "notes": "Platon’s powerful portraits and photo essays document people fighting for human rights around the world."
   }
 ]

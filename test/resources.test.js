@@ -30,3 +30,11 @@ test('rejects duplicate IDs and escapes contributor Markdown', () => {
   assert.ok(!markdown.includes('\n# heading'));
   assert.ok(markdown.includes('\\*\\*not bold'));
 });
+
+test('labels tagged Amazon URLs as paid links', () => {
+  const resource = createResource({
+    ...input,
+    url: 'https://www.amazon.com/dp/1234567890/?tag=frontendhappy-20',
+  }, categories);
+  assert.match(renderList([resource], categories), /\(paid link\)/);
+});
