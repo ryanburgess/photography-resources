@@ -4,6 +4,8 @@ created by [Ryan Burgess](https://instagram.com/ryan.burgess)
 
 A personal collection of photography resources to learn from and return to. I'm building this for myself and sharing it in case it's useful to others.
 
+This list is also available on [my website](https://www.ryanburgess.com/resources/photography).
+
 ## Resources
 
 <!-- RESOURCE_LIST -->
