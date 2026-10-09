@@ -31,10 +31,11 @@ A community-curated collection of useful photography links. Every addition is re
 ## Podcasts
 
 - [The Creative Thread](https://open.spotify.com/show/033js3qoXvzv6DeXTiti9h) — Hosted by photographer Meg Loeks, The Creative Thread is a podcast about art, process, and the stories behind the work\.
+- [The PetaPixel Podcast](https://petapixel.com/podcast/) — A weekly panel discussion of photography news and gear from the PetaPixel team\.
 
 ## Articles
 
-_No approved resources yet._
+- [PetaPixel](https://petapixel.com/) — A great photography news and review site for keeping up with new gear and the industry\.
 
 ## Newsletters
 
