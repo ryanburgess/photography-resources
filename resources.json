@@ -42,6 +42,13 @@
     "notes": "A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments."
   },
   {
+    "id": "e7c4c893-f6a8-4ff0-a03e-2c45492c3845",
+    "category": "articles",
+    "title": "PetaPixel",
+    "url": "https://petapixel.com/",
+    "notes": "A great photography news and review site for keeping up with new gear and the industry."
+  },
+  {
     "id": "34c94812-968e-4c12-b82b-78dd1737c991",
     "category": "tools",
     "title": "PhotoPills",
@@ -82,6 +89,13 @@
     "title": "The Defenders: Heroes of the Fight for Global Human Rights",
     "url": "https://www.amazon.com/dp/B0CM6548LD/?tag=frontendhappy-20",
     "notes": "Platon’s powerful portraits and photo essays document people fighting for human rights around the world."
+  },
+  {
+    "id": "b8f0a6b7-72c9-483a-a4c0-5efd2a2adff7",
+    "category": "podcasts",
+    "title": "The PetaPixel Podcast",
+    "url": "https://petapixel.com/podcast/",
+    "notes": "A weekly panel discussion of photography news and gear from the PetaPixel team."
   },
   {
     "id": "695e6a5c-aff0-4428-ae18-1091fbdfe1df",
