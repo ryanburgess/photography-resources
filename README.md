@@ -16,7 +16,11 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 ### Books
 
 - [Find Your Frame](<https://www.amazon.com/dp/071128363X/?tag=frontendhappy-20>) — Useful for developing a personal way of seeing, composing, and anticipating moments on the street.
+- [Light: Science & Magic](<https://www.routledge.com/Light--Science--Magic-An-Introduction-to-Photographic-Lighting/Hunter-Biver-Fuqua-Reid/p/book/9780367860271>) — A practical guide to understanding how light behaves and using it intentionally, with examples for solving photographic lighting challenges.
+- [Magnum Contact Sheets](<https://www.thamesandhudson.com/products/magnum-contact-sheets>) — A look at the frames behind iconic Magnum photographs, revealing how photographers work a scene and select their final images.
 - [The Creative Act: A Way of Being — Rick Rubin](<https://sites.prh.com/thecreativeact>) — An excellent book with so many insights into creativity. While it is not a photography book, its ideas apply to photography and building a creative life.
+- [The Meaning in the Making — Sean Tucker](<https://www.seantucker.photography/the-meaning-in-the-making>) — Explores why we create and how to build a meaningful creative practice, with ideas that reach beyond photography.
+- [The Photographer’s Eye — Michael Freeman](<https://www.hachette.co.uk/titles/michael-freeman-14/the-photographers-eye-definitive-edition/9781840918878/>) — Useful for developing an eye for composition and organizing the visual elements of a scene into stronger photographs.
 - [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) — Useful for developing a more observant, patient, and playful approach to street photography.
 - [Understanding Color in Photography](<https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20>) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
 
@@ -31,11 +35,14 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 ### Videos
 
 - [Abstract: The Art of Design \| Platon: Photography](<https://www.youtube.com/watch?v=BDpqt-haLLM>) — A full episode following Platon’s portrait practice and his focus on simplicity, connection, and storytelling.
+- [Finding Vivian Maier \(2013\)](<https://findingvivianmaier.com/>) — A documentary exploring Vivian Maier’s life and the discovery of her extensive photographic archive.
 - [Making Candid Portraits in Street Photography \(feat. Dawn Eagleton\)](<https://www.youtube.com/watch?v=qcXt3b6Xvr8>) — A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments.
 - [Tales by Light](<https://www.netflix.com/title/80133187>) — This Netflix documentary series follows photographers and filmmakers as they travel the world, capturing indelible images of people, places, creatures, and cultures.
+- [Walkie Talkie — Paulie B](<https://www.youtube.com/playlist?list=PLEZD_EqdEEVK9xlpkr7Vxs_gz9FHCCEbq>) — A video series following street photographers on photo walks, sharing conversations about their approach, process, and ways of seeing.
 
 ### Podcasts
 
+- [The Candid Frame](<https://www.ibarionex.net/thecandidframe>) — Ibarionex Perello’s conversations with photographers about their creative lives, personal journeys, and approaches to making images.
 - [The Creative Thread](<https://open.spotify.com/show/033js3qoXvzv6DeXTiti9h>) — Hosted by photographer Meg Loeks, The Creative Thread is a podcast about art, process, and the stories behind the work.
 - [The PetaPixel Podcast](<https://petapixel.com/podcast/>) — A weekly panel discussion of photography news and gear from the PetaPixel team.
 

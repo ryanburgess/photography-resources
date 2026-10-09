@@ -21,6 +21,13 @@
     "notes": "Useful for developing a personal way of seeing, composing, and anticipating moments on the street."
   },
   {
+    "id": "e62092d4-a545-4467-8ef5-6ba1499174a4",
+    "category": "videos",
+    "title": "Finding Vivian Maier (2013)",
+    "url": "https://findingvivianmaier.com/",
+    "notes": "A documentary exploring Vivian Maier’s life and the discovery of her extensive photographic archive."
+  },
+  {
     "id": "cf690ed8-f56a-420d-90d4-9f31cbe19689",
     "category": "photo-books",
     "title": "Fred Herzog: Modern Color",
@@ -33,6 +40,20 @@
     "title": "Jimmy Chin Teaches Adventure Photography",
     "url": "https://www.masterclass.com/classes/jimmy-chin-teaches-adventure-photography",
     "notes": "A MasterClass course on planning, capturing, and editing adventure photography in demanding environments."
+  },
+  {
+    "id": "64b68734-bc7e-4777-9de5-3f189a2786e9",
+    "category": "books",
+    "title": "Light: Science & Magic",
+    "url": "https://www.routledge.com/Light--Science--Magic-An-Introduction-to-Photographic-Lighting/Hunter-Biver-Fuqua-Reid/p/book/9780367860271",
+    "notes": "A practical guide to understanding how light behaves and using it intentionally, with examples for solving photographic lighting challenges."
+  },
+  {
+    "id": "cb1d8f48-f2c0-4faa-a2a0-c565c997b3bd",
+    "category": "books",
+    "title": "Magnum Contact Sheets",
+    "url": "https://www.thamesandhudson.com/products/magnum-contact-sheets",
+    "notes": "A look at the frames behind iconic Magnum photographs, revealing how photographers work a scene and select their final images."
   },
   {
     "id": "3123efd4-7f50-41da-bfb8-5cafa87b8243",
@@ -70,6 +91,13 @@
     "notes": "This Netflix documentary series follows photographers and filmmakers as they travel the world, capturing indelible images of people, places, creatures, and cultures."
   },
   {
+    "id": "260be3bd-71d1-4d33-a40c-eea3aba9e597",
+    "category": "podcasts",
+    "title": "The Candid Frame",
+    "url": "https://www.ibarionex.net/thecandidframe",
+    "notes": "Ibarionex Perello’s conversations with photographers about their creative lives, personal journeys, and approaches to making images."
+  },
+  {
     "id": "b8d3d5d4-a3df-43db-929a-9a86358620c6",
     "category": "books",
     "title": "The Creative Act: A Way of Being — Rick Rubin",
@@ -91,11 +119,25 @@
     "notes": "Platon’s powerful portraits and photo essays document people fighting for human rights around the world."
   },
   {
+    "id": "7b3a88dd-3dca-40bd-b11c-8c27573624d9",
+    "category": "books",
+    "title": "The Meaning in the Making — Sean Tucker",
+    "url": "https://www.seantucker.photography/the-meaning-in-the-making",
+    "notes": "Explores why we create and how to build a meaningful creative practice, with ideas that reach beyond photography."
+  },
+  {
     "id": "b8f0a6b7-72c9-483a-a4c0-5efd2a2adff7",
     "category": "podcasts",
     "title": "The PetaPixel Podcast",
     "url": "https://petapixel.com/podcast/",
     "notes": "A weekly panel discussion of photography news and gear from the PetaPixel team."
+  },
+  {
+    "id": "3c864f46-248e-4e47-9f01-5e4ffa799621",
+    "category": "books",
+    "title": "The Photographer’s Eye — Michael Freeman",
+    "url": "https://www.hachette.co.uk/titles/michael-freeman-14/the-photographers-eye-definitive-edition/9781840918878/",
+    "notes": "Useful for developing an eye for composition and organizing the visual elements of a scene into stronger photographs."
   },
   {
     "id": "695e6a5c-aff0-4428-ae18-1091fbdfe1df",
@@ -124,5 +166,12 @@
     "title": "Vivian Maier: The Color Work",
     "url": "https://www.amazon.com/dp/0062795570/?tag=frontendhappy-20",
     "notes": "A revealing collection of Vivian Maier’s color photographs that expands the familiar view of her street photography."
+  },
+  {
+    "id": "6025aab8-d97a-45a2-b908-b0921915806d",
+    "category": "videos",
+    "title": "Walkie Talkie — Paulie B",
+    "url": "https://www.youtube.com/playlist?list=PLEZD_EqdEEVK9xlpkr7Vxs_gz9FHCCEbq",
+    "notes": "A video series following street photographers on photo walks, sharing conversations about their approach, process, and ways of seeing."
   }
 ]
