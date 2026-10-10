@@ -53,6 +53,7 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 ### Tools
 
 - [PhotoPills](<https://www.photopills.com/>) — A photography planning app for predicting the position of the Sun, Moon, and Milky Way, scouting locations, and calculating technical details before a shoot.
+- [Stunna Photo Tools](<https://stunna-app.com/tools>) — Free browser photo filters, photo booth frames and a photo strip maker for trying film and digicam looks on existing photos. Images are processed locally; no account or watermark, with 20 MB inputs and exports up to 3000 px. Owner-submitted; the site also promotes a separate mobile AI editor with optional paid Pro access.
 
 
 ## Add a resource
