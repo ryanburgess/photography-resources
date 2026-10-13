@@ -173,5 +173,12 @@
     "title": "Walkie Talkie — Paulie B",
     "url": "https://www.youtube.com/playlist?list=PLEZD_EqdEEVK9xlpkr7Vxs_gz9FHCCEbq",
     "notes": "A video series following street photographers on photo walks, sharing conversations about their approach, process, and ways of seeing."
+  },
+  {
+    "id": "e6fc9298-d78b-46c0-be2b-7b7804fc0afb",
+    "category": "tools",
+    "title": "Stunna Photo Tools",
+    "url": "https://stunna-app.com/tools",
+    "notes": "Free browser photo filters, photo booth frames and a photo strip maker for trying film and digicam looks on existing photos. Images are processed locally; no account or watermark, with 20 MB inputs and exports up to 3000 px. Owner-submitted; the site also promotes a separate mobile AI editor with optional paid Pro access."
   }
 ]
