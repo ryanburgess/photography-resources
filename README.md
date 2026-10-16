@@ -55,6 +55,11 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 - [PhotoPills](<https://www.photopills.com/>) — A photography planning app for predicting the position of the Sun, Moon, and Milky Way, scouting locations, and calculating technical details before a shoot.
 - [Stunna Photo Tools](<https://stunna-app.com/tools>) — Free browser photo filters, photo booth frames and a photo strip maker for trying film and digicam looks on existing photos. Images are processed locally; no account or watermark, with 20 MB inputs and exports up to 3000 px. Owner-submitted; the site also promotes a separate mobile AI editor with optional paid Pro access.
 
+### Rules of thumb
+
+- [Sunny 16 rule](<https://en.wikipedia.org/wiki/Sunny_16_rule>) — Exposure without a light meter: in direct sun, use f/16 at a shutter speed of 1/ISO \(1/125 s at ISO 100\). In dimmer light, keep the shutter speed and open up: f/11 slight overcast, f/8 overcast, f/5.6 heavy overcast, f/4 open shade or sunset.
+- [Looney 11 rule](<https://en.wikipedia.org/wiki/Looney_11_rule>) — Sunny 16 for the Moon: f/11 at a shutter speed of 1/ISO. Moon shots often come out as a bright, featureless disc; this keeps the surface detail.
+
 
 ## Add a resource
 
