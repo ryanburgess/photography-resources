@@ -43,6 +43,7 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 
 - [Paulie B](<https://www.youtube.com/@PaulieB>) — Street photography videos and the Walkie Talkie series, featuring photo walks and conversations about photographers’ approach, process, and ways of seeing.
 - [Peter McKinnon](<https://www.youtube.com/@PeterMcKinnon>) — Photography and filmmaking tutorials, editing walkthroughs, and creative inspiration for making stronger images.
+- [Sean Tucker](<https://www.youtube.com/@seantuck>) — Thoughtful photography tutorials, creative philosophy, and conversations about light, storytelling, and developing a personal visual voice.
 
 ### Podcasts
 
