@@ -38,7 +38,11 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 - [Finding Vivian Maier \(2013\)](<https://findingvivianmaier.com/>) — A documentary exploring Vivian Maier’s life and the discovery of her extensive photographic archive.
 - [Making Candid Portraits in Street Photography \(feat. Dawn Eagleton\)](<https://www.youtube.com/watch?v=qcXt3b6Xvr8>) — A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments.
 - [Tales by Light](<https://www.netflix.com/title/80133187>) — This Netflix documentary series follows photographers and filmmakers as they travel the world, capturing indelible images of people, places, creatures, and cultures.
-- [Walkie Talkie — Paulie B](<https://www.youtube.com/playlist?list=PLEZD_EqdEEVK9xlpkr7Vxs_gz9FHCCEbq>) — A video series following street photographers on photo walks, sharing conversations about their approach, process, and ways of seeing.
+
+### YouTube
+
+- [Paulie B](<https://www.youtube.com/@PaulieB>) — Street photography videos and the Walkie Talkie series, featuring photo walks and conversations about photographers’ approach, process, and ways of seeing.
+- [Peter McKinnon](<https://www.youtube.com/@PeterMcKinnon>) — Photography and filmmaking tutorials, editing walkthroughs, and creative inspiration for making stronger images.
 
 ### Podcasts
 
