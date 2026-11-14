@@ -47,10 +47,10 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 
 ### Podcasts
 
+- [Portraits of an Artist](<https://portraitsofanartist.com/>) — Ryan Burgess talks with artists across disciplines about how they make work, find inspiration, and build a creative life. For photographers and anyone curious about how other creatives think and work.
 - [The Candid Frame](<https://www.ibarionex.net/thecandidframe>) — Ibarionex Perello’s conversations with photographers about their creative lives, personal journeys, and approaches to making images.
 - [The Creative Thread](<https://open.spotify.com/show/033js3qoXvzv6DeXTiti9h>) — Hosted by photographer Meg Loeks, The Creative Thread is a podcast about art, process, and the stories behind the work.
 - [The PetaPixel Podcast](<https://petapixel.com/podcast/>) — A weekly panel discussion of photography news and gear from the PetaPixel team.
-- [Portraits of an Artist](<https://portraitsofanartist.com/>) — Ryan Burgess talks with artists across disciplines about how they make work, find inspiration, and build a creative life. For photographers and anyone curious about how other creatives think and work.
 
 ### Articles
 
