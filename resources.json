@@ -215,5 +215,19 @@
     "title": "Sean Tucker",
     "url": "https://www.youtube.com/@seantuck",
     "notes": "Thoughtful photography tutorials, creative philosophy, and conversations about light, storytelling, and developing a personal visual voice."
+  },
+  {
+    "id": "2ba8f2ad-69d0-4b34-9608-d558a383c2dc",
+    "category": "videos",
+    "title": "Avedon",
+    "url": "https://www.netflix.com/title/83018004",
+    "notes": "An inspiring documentary about Richard Avedon, offering a look into the work and creative approach of a successful photographer."
+  },
+  {
+    "id": "c283e149-0c3f-4db9-8dc6-0afe9ada776d",
+    "category": "books",
+    "title": "Shoot Like Wes",
+    "url": "https://quarto.com/books/9780711296800/shoot-like-wes",
+    "notes": "A practical, beginner-friendly guide to Wes Anderson-inspired compositions that encourages you to think about the reasoning behind each shot. Useful at any level for exploring a different approach and perspective."
   }
 ]

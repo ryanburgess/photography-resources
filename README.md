@@ -23,6 +23,7 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 - [The Photographer’s Eye — Michael Freeman](<https://www.hachette.co.uk/titles/michael-freeman-14/the-photographers-eye-definitive-edition/9781840918878/>) — Useful for developing an eye for composition and organizing the visual elements of a scene into stronger photographs.
 - [Think Like a Street Photographer](<https://www.amazon.com/dp/178627728X/?tag=frontendhappy-20>) — Useful for developing a more observant, patient, and playful approach to street photography.
 - [Understanding Color in Photography](<https://www.amazon.com/dp/0770433111/?tag=frontendhappy-20>) — Useful for thinking intentionally about color, composition, and exposure when creating vivid photographs.
+- [Shoot Like Wes](<https://quarto.com/books/9780711296800/shoot-like-wes>) — A practical, beginner-friendly guide to Wes Anderson-inspired compositions that encourages you to think about the reasoning behind each shot. Useful at any level for exploring a different approach and perspective.
 
 ### Photo books
 
@@ -38,6 +39,7 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 - [Finding Vivian Maier \(2013\)](<https://findingvivianmaier.com/>) — A documentary exploring Vivian Maier’s life and the discovery of her extensive photographic archive.
 - [Making Candid Portraits in Street Photography \(feat. Dawn Eagleton\)](<https://www.youtube.com/watch?v=qcXt3b6Xvr8>) — A conversation with Dawn Eagleton about creating candid street portraits and capturing authentic, unguarded moments.
 - [Tales by Light](<https://www.netflix.com/title/80133187>) — This Netflix documentary series follows photographers and filmmakers as they travel the world, capturing indelible images of people, places, creatures, and cultures.
+- [Avedon](<https://www.netflix.com/title/83018004>) — An inspiring documentary about Richard Avedon, offering a look into the work and creative approach of a successful photographer.
 
 ### YouTube
 
