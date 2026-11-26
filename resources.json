@@ -229,5 +229,12 @@
     "title": "Shoot Like Wes",
     "url": "https://quarto.com/books/9780711296800/shoot-like-wes",
     "notes": "A practical, beginner-friendly guide to Wes Anderson-inspired compositions that encourages you to think about the reasoning behind each shot. Useful at any level for exploring a different approach and perspective."
+  },
+  {
+    "id": "8eb3d02e-3a7c-4202-94e7-9194c4ece040",
+    "category": "tools",
+    "title": "Golden hour calculator (Pocket Colorist)",
+    "url": "https://colorist.legen.uk/tools/golden-hour",
+    "notes": "Free golden hour, blue hour, sunrise and sunset times for any city and date, with a chart of the sun's height that shows why golden hour is short near the equator and long far from it. Computed in the browser from NOAA's published formulas; no location permission, account or ads. Owner-submitted; the site also announces an upcoming paid iPhone camera app."
   }
 ]

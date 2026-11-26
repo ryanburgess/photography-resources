@@ -62,6 +62,7 @@ This list is also available on [my website](https://www.ryanburgess.com/resource
 
 - [PhotoPills](<https://www.photopills.com/>) — A photography planning app for predicting the position of the Sun, Moon, and Milky Way, scouting locations, and calculating technical details before a shoot.
 - [Stunna Photo Tools](<https://stunna-app.com/tools>) — Free browser photo filters, photo booth frames and a photo strip maker for trying film and digicam looks on existing photos. Images are processed locally; no account or watermark, with 20 MB inputs and exports up to 3000 px. Owner-submitted; the site also promotes a separate mobile AI editor with optional paid Pro access.
+- [Golden hour calculator \(Pocket Colorist\)](<https://colorist.legen.uk/tools/golden-hour>) — Free golden hour, blue hour, sunrise and sunset times for any city and date, with a chart of the sun's height that shows why golden hour is short near the equator and long far from it. Computed in the browser from NOAA's published formulas; no location permission, account or ads. Owner-submitted; the site also announces an upcoming paid iPhone camera app.
 
 ### Rules of thumb
 
